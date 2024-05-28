@@ -1,9 +1,4 @@
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
-
 
 ## I'm JiatingYu (Jasmine)
 
@@ -22,8 +17,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /> 
 </div>
 
 
@@ -34,7 +27,7 @@
 ## Github Stats  
 ![JiatingYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatingyu-amss&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatingyu-amss&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatingyu-amss&layout=compact)](https://github.com/jiatingyu-amss/github-readme-stats)
 
   
 
