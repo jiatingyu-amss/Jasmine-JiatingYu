@@ -5,7 +5,7 @@
   
 
 
-## I'm Chris
+## I'm JiatingYu (Jasmine)
 
 - 🔭 I’m currently working in NUIST（Nanjing University of Information Science and Technology）
 - 🌱 I’m currently teaching Linear Algebra and Machine Learning
